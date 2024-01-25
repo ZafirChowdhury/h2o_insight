@@ -6,10 +6,12 @@ H2OInsight is a web app where users can add and compare water quality data. Rese
 
 The app has an Admin dashboard, it also has support tickets where users can submit their problems and message the admins.
 
-Techstack - 
-HTML, CSS as the forentend.
+TechStack - 
+HTML, CSS as the frontend.
 Flask as its backend. 
 MySQL as its database.
+
+Check part "IV" of the "final_paper.pdf" for usage documentation.
 
 Honest thoughts - 
 The project is really simple. It has a simple database, simple UI and simple functionality, repetitive code.  it's nothing to write home about. But I learned quite a lot. 
